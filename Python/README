@@ -1,4 +1,7 @@
-pandas - exploring data frames with pandas
-sqlite - simple implementations of sqlite in python. Creating, reading and updating a db in memory, with a .db and .csv file
-numpy - exploring the numpy and matplotlib libraries
+Directories  
+  pandas - exploring data frames with pandas
+  sqlite - simple implementations of sqlite in python. Creating, reading and updating a db in memory, with a .db and .csv file
+  numpy - exploring the numpy and matplotlib libraries
 
+Files
+  move_files - script that uses a .csv file to separate files into different directories
