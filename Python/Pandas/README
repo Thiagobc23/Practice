@@ -1,1 +1,7 @@
 Using Pandas with numpy, seaborn and matplotlib
+
+#### Pandas.ipynb
+Uses the Kaggle [Avocado Prices](https://www.kaggle.com/neuromusic/avocado-prices) dataset to explore some basics with Pandas
+
+### BRA.ipynb
+Uses data from Brazil to explore some visualizations and correlation methods
